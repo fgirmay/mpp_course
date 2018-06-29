@@ -2,162 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="91b8e345-14dc-4362-9aca-0fb1f3df5f94" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FPPStandard/Additional/Accounts.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FPPStandard/Additional/Bank.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FPPStandard/Additional/CertificateDeposit.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FPPStandard/Additional/CheckingAccount.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FPPStandard/Additional/Main.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FPPStandard/Additional/RandomNumbers.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FPPStandard/Additional/SavingsAccount.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FPPStandard/april2017/Accessory.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FPPStandard/april2017/Bicycle.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FPPStandard/april2017/Brand.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FPPStandard/april2017/Inventory.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FPPStandard/april2017/Item.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FPPStandard/april2017/Main.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FPPStandard/april2017/Product.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FPPStandard/comparator/CityComparator.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FPPStandard/comparator/TopCity.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FPPStandard/comparator/Type.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FPPStandard/december2016/problem1/Employee.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FPPStandard/december2016/problem1/EmployeeAdmin.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FPPStandard/december2016/problem1/EmployeeComparator.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FPPStandard/december2016/problem1/Main.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FPPStandard/december2016/problem2/EmployeeData.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FPPStandard/december2016/problem2/Main.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FPPStandard/december2016/problem2/Staff.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FPPStandard/december2016/problem2/Statistics.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FPPStandard/december2016/problem2/Teacher.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FPPStandard/january2017/problem1/ArrayQueueImpl.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FPPStandard/january2017/problem1/Main.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FPPStandard/january2017/problem1/QueueException.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FPPStandard/january2017/problem2/Account.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FPPStandard/january2017/problem2/AccountManager.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FPPStandard/january2017/problem2/CheckingAccount.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FPPStandard/january2017/problem2/Employee.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FPPStandard/january2017/problem2/Main.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FPPStandard/january2017/problem2/RetirementAccount.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FPPStandard/january2017/problem2/SavingsAccount.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FPPStandard/june2017/Admin.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FPPStandard/june2017/FulltimeStudent.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FPPStandard/june2017/FulltimeTranscriptRecord.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FPPStandard/june2017/Main.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FPPStandard/june2017/ParttimeStudent.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FPPStandard/june2017/ParttimeTranscriptRecord.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FPPStandard/june2017/SemesterTranscript.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FPPStandard/june2017/Student.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FPPStandard/linkedlist/DoublyLinkedDeleteFirst.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FPPStandard/march2017/Automobile.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FPPStandard/march2017/Bicycle.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FPPStandard/march2017/Boat.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FPPStandard/march2017/Main.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FPPStandard/march2017/MilesCounter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FPPStandard/march2017/Vehicle.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FPPStandard/march2018/problem1/Main.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FPPStandard/march2018/problem1/MinDoublyLinkedList.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homework10/problem1/MyBST.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homework11/problem1/Admin.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homework11/problem1/Key.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homework11/problem1/Standing.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homework11/problem1/Student.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homework11/problem1/Test.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homework11/problem2/Employee.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homework11/problem2/EmployeeAdmin.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homework11/problem2/EmployeeComparator.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homework11/problem2/Main.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homework11/problem3/Employee.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homework11/problem3/EmployeeInfo.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homework11/problem3/TestData.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homework11/problem3/util/Util.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homework12/problem1/ExceptionHandler.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homework12/problem2/BalanceBelowThresholdException.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homework12/problem2/CustomerAccount.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homework12/problem2/InsufficientBalanceException.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homework12/problem2/TestBalanceBelowThresholdException.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homework12/problem2/TestInsufficientBalanceException.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homework2/Prog1.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homework2/Prog2.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homework2/Prog3.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homework2/Prog4.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homework2/Prog5.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homework2/Prog6.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homework2/Prog7.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homework2/Prog8.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homework2/RandomNumbers.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homework3/homework3.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homework3/problem1/Address.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homework3/problem1/Customer.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homework3/problem1/Main.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homework3/problem2/Account.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homework3/problem2/AccountType.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homework3/problem2/Employee.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homework3/problem2/MainTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homework3/problem2/Util.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homework3/problem3/Main.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homework3/problem3/employeeinfo/Account.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homework3/problem3/employeeinfo/AccountType.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homework3/problem3/employeeinfo/Employee.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homework3/problem3/employeeinfo/Util.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homework3/problem4/Circle.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homework3/problem4/Main.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homework3/problem4/Rectangle.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homework3/problem4/Triangle.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homework3/problem5/MyDate.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homework4/problem1/StringMerger.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homework4/problem2/MinimumCharFinder.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homework4/problem3/BinarySearch.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homework4/problem4/PalindromeChecker.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homework4/problem5/BinarySearchTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homework4/problem5/PalindromeCheckerTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homework5/problem1/Circle.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homework5/problem1/Main.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homework5/problem1/Rectangle.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homework5/problem1/Shape.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homework5/problem1/Square.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homework5/problem2/DeptEmployee.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homework5/problem2/Main2.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homework5/problem2/Professor.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homework5/problem2/Secretary.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homework5/problem3/DownwardHat.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homework5/problem3/Driver.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homework5/problem3/FaceMaker.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homework5/problem3/Figure.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homework5/problem3/UpwardHat.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homework5/problem3/Vertical.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homework5/problem4/BasedCommissionEmployee.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homework5/problem4/CommissionEmployee.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homework5/problem4/Driver.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homework5/problem4/Employee.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homework5/problem4/HourlyEmployee.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homework5/problem4/SalariedEmployee.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homework5/problem5/Computer.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homework5/problem5/Main.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homework5/problem6/clonedeep/Computer.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homework5/problem6/clonedeep/Main.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homework5/problem6/clonedeep/Person.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homework5/problem6/cloneshallow/Computer.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homework5/problem6/cloneshallow/Main.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homework5/problem6/cloneshallow/Person.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homework6/problem1/StringOperations.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homework6/problem2/RainbowBackground.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homework7/problem1/MetricConversionAssistant.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homework7/problem2/MyTable.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homework8/problem1/MyStringList.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homework8/problem1/MyStringListDriver.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homework8/problem2/MyPersonList.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homework8/problem2/Person.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homework8/problem2/PersonComparator.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homework8/problem3/MyStringLinkedList.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homework8/problem4/Main.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homework8/problem4/Marketing.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homework8/problem4/MarketingComparator.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homework9/problem1/ArrayQueueImpl.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homework9/problem1/Driver.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homework9/problem2/Driver.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homework9/problem2/LinkedListStackImpl.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homework9/problem2/NoElementExistsException.java" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Homework_Solution.iml" afterPath="$PROJECT_DIR$/LabSolutions.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MPP/Lab2/prob2B/OrderLine.java" afterPath="$PROJECT_DIR$/MPP/Lab2/prob2B/OrderLine.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LabSolutions.iml" afterPath="$PROJECT_DIR$/LabSolutions.iml" />
     </list>
     <ignored path="Homework_Solution.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -180,115 +25,131 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MPP/Lab2/prob2A/Main.java">
+      <file leaf-file-name="Trailer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MPP/Lab3/lesson3/labs/prob4/Trailer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="19" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="19" />
+            <state relative-caret-position="30">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Order.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MPP/Lab2/prob2B/Order.java">
+      <file leaf-file-name="Driver.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MPP/Lab3/lesson3/labs/prob4/Driver.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+            <state relative-caret-position="210">
+              <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Employee.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MPP/Lab4/problem4/Employee.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="525">
+              <caret line="35" column="23" selection-start-line="35" selection-start-column="23" selection-end-line="35" selection-end-column="23" />
               <folding>
-                <element signature="imports" expanded="false" />
-                <element signature="e#252#253#0" expanded="false" />
-                <element signature="e#292#293#0" expanded="false" />
-                <element signature="e#346#347#0" expanded="false" />
-                <element signature="e#387#388#0" expanded="false" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#333#334#0" expanded="true" />
+                <element signature="e#367#368#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="OrderLine.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MPP/Lab2/prob2B/OrderLine.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GradeReport.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MPP/Lab2/prob2A/GradeReport.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-              <folding>
-                <element signature="e#159#160#0" expanded="false" />
-                <element signature="e#197#198#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Person.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MPP/Lab3/lesson3/labs/prob1/Person.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PersonWithJob.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MPP/Lab3/lesson3/labs/prob1/PersonWithJob.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Landlord.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MPP/Lab3/lesson3/labs/prob2/Landlord.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
-              <folding>
-                <element signature="e#241#242#0" expanded="true" />
-                <element signature="e#283#284#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Building.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MPP/Lab3/lesson3/labs/prob2/Building.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="43" selection-start-line="25" selection-start-column="43" selection-end-line="25" selection-end-column="43" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Apartment.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MPP/Lab3/lesson3/labs/prob2/Apartment.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-              <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/MPP/Lab3/lesson3/labs/prob2/Main.java">
+        <entry file="file://$PROJECT_DIR$/MPP/Lab4/problem4/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="34" column="107" selection-start-line="34" selection-start-column="107" selection-end-line="34" selection-end-column="107" />
+            <state relative-caret-position="566">
+              <caret line="40" column="33" selection-start-line="40" selection-start-column="33" selection-end-line="40" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Hourly.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MPP/Lab4/problem4/Hourly.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Salaried.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MPP/Lab4/problem4/Salaried.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#357#358#0" expanded="true" />
+                <element signature="e#386#387#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Commissioned.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MPP/Lab4/problem4/Commissioned.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" column="29" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#835#836#0" expanded="true" />
+                <element signature="e#868#869#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Order.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MPP/Lab4/problem4/Order.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+              <folding>
+                <element signature="e#583#584#0" expanded="true" />
+                <element signature="e#631#632#0" expanded="true" />
+                <element signature="e#662#663#0" expanded="true" />
+                <element signature="e#692#693#0" expanded="true" />
+                <element signature="e#735#736#0" expanded="true" />
+                <element signature="e#773#774#0" expanded="true" />
+                <element signature="e#811#812#0" expanded="true" />
+                <element signature="e#845#846#0" expanded="true" />
+                <element signature="e#899#900#0" expanded="true" />
+                <element signature="e#945#946#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LocalDate.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/time/LocalDate.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="258">
+              <caret line="136" column="19" selection-start-line="136" selection-start-column="19" selection-end-line="136" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Paycheck.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MPP/Lab4/problem4/Paycheck.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="27" column="58" selection-start-line="27" selection-start-column="58" selection-end-line="27" selection-end-column="58" />
+              <folding>
+                <element signature="e#542#543#0" expanded="true" />
+                <element signature="e#609#610#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -326,25 +187,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/homework12/problem2/BalanceBelowThresholdException.java" />
-        <option value="$PROJECT_DIR$/homework12/problem2/TestBalanceBelowThresholdException.java" />
-        <option value="$PROJECT_DIR$/homework12/problem2/TestInsufficientBalanceException.java" />
-        <option value="$PROJECT_DIR$/homework12/problem2/CustomerAccount.java" />
-        <option value="$PROJECT_DIR$/homework8/problem1/MyStringListDriver.java" />
-        <option value="$PROJECT_DIR$/homework8/problem1/MyStringList.java" />
-        <option value="$PROJECT_DIR$/homework12/problem1/ExceptionHandler.java" />
-        <option value="$PROJECT_DIR$/homework8/problem4/Main.java" />
-        <option value="$PROJECT_DIR$/homework8/problem4/MarketingComparator.java" />
-        <option value="$PROJECT_DIR$/FPPStandard/december2016/Employee.java" />
-        <option value="$PROJECT_DIR$/FPPStandard/december2016/Main.java" />
-        <option value="$PROJECT_DIR$/FPPStandard/december2016/EmployeeAdmin.java" />
-        <option value="$PROJECT_DIR$/FPPStandard/december2016/EmployeeComparator.java" />
-        <option value="$PROJECT_DIR$/FPPStandard/december2016/problem1/Main.java" />
-        <option value="$PROJECT_DIR$/FPPStandard/december2016/problem2/EmployeeData.java" />
-        <option value="$PROJECT_DIR$/FPPStandard/december2016/problem2/Staff.java" />
-        <option value="$PROJECT_DIR$/FPPStandard/december2016/problem2/Teacher.java" />
-        <option value="$PROJECT_DIR$/FPPStandard/december2016/problem2/Statistics.java" />
-        <option value="$PROJECT_DIR$/FPPStandard/december2016/problem2/Main.java" />
         <option value="$PROJECT_DIR$/FPPStandard/january2017/ArrayQueueImpl.java" />
         <option value="$PROJECT_DIR$/FPPStandard/january2017/problem1/ArrayQueueImpl.java" />
         <option value="$PROJECT_DIR$/FPPStandard/january2017/problem1/Main.java" />
@@ -377,6 +219,25 @@
         <option value="$PROJECT_DIR$/MPP/Lab3/lesson3/labs/prob2/Landlord.java" />
         <option value="$PROJECT_DIR$/MPP/Lab3/lesson3/labs/prob2/Building.java" />
         <option value="$PROJECT_DIR$/MPP/Lab3/lesson3/labs/prob2/Main.java" />
+        <option value="$PROJECT_DIR$/MPP/Lab3/lesson3/labs/prob3/Circle.java" />
+        <option value="$PROJECT_DIR$/MPP/Lab3/lesson3/labs/prob3/Cylinder.java" />
+        <option value="$PROJECT_DIR$/MPP/Lab3/lesson3/labs/prob3/badway/Circle.java" />
+        <option value="$PROJECT_DIR$/MPP/Lab3/lesson3/labs/prob3/badway/Cylinder.java" />
+        <option value="$PROJECT_DIR$/MPP/Lab3/lesson3/labs/prob3/betterway/Cylinder.java" />
+        <option value="$PROJECT_DIR$/MPP/Lab3/lesson3/labs/prob3/betterway/Circle.java" />
+        <option value="$PROJECT_DIR$/MPP/Lab3/lesson3/labs/prob4/Property.java" />
+        <option value="$PROJECT_DIR$/MPP/Lab3/lesson3/labs/prob4/House.java" />
+        <option value="$PROJECT_DIR$/MPP/Lab3/lesson3/labs/prob4/Trailer.java" />
+        <option value="$PROJECT_DIR$/MPP/Lab3/lesson3/labs/prob4/Driver.java" />
+        <option value="$PROJECT_DIR$/MPP/Lab3/lesson3/labs/prob4/Condo.java" />
+        <option value="$PROJECT_DIR$/MPP/Lab3/lesson3/labs/prob4/Admin.java" />
+        <option value="$PROJECT_DIR$/MPP/Lab4/problem4/Order.java" />
+        <option value="$PROJECT_DIR$/MPP/Lab4/problem4/Hourly.java" />
+        <option value="$PROJECT_DIR$/MPP/Lab4/problem4/Salaried.java" />
+        <option value="$PROJECT_DIR$/MPP/Lab4/problem4/Commissioned.java" />
+        <option value="$PROJECT_DIR$/MPP/Lab4/problem4/Paycheck.java" />
+        <option value="$PROJECT_DIR$/MPP/Lab4/problem4/Employee.java" />
+        <option value="$PROJECT_DIR$/MPP/Lab4/problem4/Main.java" />
       </list>
     </option>
   </component>
@@ -402,9 +263,8 @@
     <treeState />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="822" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -431,11 +291,11 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane">
         <subPane />
       </pane>
       <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -468,63 +328,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Lab3" />
+              <option name="myItemId" value="Lab4" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="labs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="prob4" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LabSolutions" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LabSolutions" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MPP" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Lab3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="labs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="prob2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LabSolutions" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LabSolutions" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MPP" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Lab3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="labs" />
+              <option name="myItemId" value="problem4" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -561,6 +369,7 @@
     <property name="last_directory_selection" value="$PROJECT_DIR$/homework4/problem5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="FullScreen" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -588,47 +397,7 @@
       <recent name="$PROJECT_DIR$/MPP/Lab2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
-    <configuration default="false" name="Driver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="problem1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="problem1.Driver" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="LabSolutions" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="prob2A.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="prob2A.Main" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="LabSolutions" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.Main (2)">
     <configuration default="false" name="PersonWithJob" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -677,6 +446,46 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="lesson3.labs.prob2.Main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="LabSolutions" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Driver (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="lesson3.labs.prob4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="lesson3.labs.prob4.Driver" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="LabSolutions" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="problem4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="problem4.Main" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -1185,19 +994,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Driver" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Main" />
-      <item index="2" class="java.lang.String" itemvalue="Application.PersonWithJob" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Person" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Main (1)" />
+      <item index="0" class="java.lang.String" itemvalue="Application.PersonWithJob" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Person" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Main (1)" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Driver (1)" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Main (2)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Main (1)" />
-        <item index="1" class="java.lang.String" itemvalue="Application.PersonWithJob" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Person" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Main" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Driver" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Main (2)" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Driver (1)" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Main (1)" />
+        <item index="3" class="java.lang.String" itemvalue="Application.PersonWithJob" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Person" />
       </list>
     </recent_temporary>
   </component>
@@ -1282,7 +1091,8 @@
       <workItem from="1530136285590" duration="86000" />
       <workItem from="1530136434640" duration="106000" />
       <workItem from="1530136804564" duration="3930000" />
-      <workItem from="1530183756735" duration="2068000" />
+      <workItem from="1530183756735" duration="5907000" />
+      <workItem from="1530235953871" duration="8135000" />
     </task>
     <servers />
   </component>
@@ -1310,20 +1120,20 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="218586000" />
+    <option name="totallyTimeSpent" value="230560000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="822" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30721393" sideWeight="0.50858366" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3068182" sideWeight="0.50858366" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21268657" sideWeight="0.4914163" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21164773" sideWeight="0.4914163" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -1365,30 +1175,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/FPPStandard/december2016/problem2/EmployeeData.java" />
-    <entry file="file://$PROJECT_DIR$/FPPStandard/december2016/problem2/Main.java" />
-    <entry file="file://$PROJECT_DIR$/FPPStandard/december2016/problem2/Statistics.java" />
-    <entry file="file://$PROJECT_DIR$/FPPStandard/december2016/problem1/EmployeeAdmin.java" />
-    <entry file="file://$PROJECT_DIR$/FPPStandard/december2016/problem2/Teacher.java" />
-    <entry file="file://$PROJECT_DIR$/FPPStandard/january2017/problem1/QueueException.java" />
-    <entry file="file://$PROJECT_DIR$/FPPStandard/january2017/problem1/Main.java" />
-    <entry file="file://$PROJECT_DIR$/FPPStandard/january2017/problem1/ArrayQueueImpl.java" />
-    <entry file="file://$PROJECT_DIR$/FPPStandard/january2017/problem2/SavingsAccount.java" />
-    <entry file="file://$PROJECT_DIR$/FPPStandard/january2017/problem2/RetirementAccount.java" />
-    <entry file="file://$PROJECT_DIR$/FPPStandard/january2017/problem2/Employee.java" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2158" column="30" selection-start-line="2158" selection-start-column="30" selection-end-line="2158" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FPPStandard/january2017/problem2/Main.java" />
-    <entry file="file://$PROJECT_DIR$/FPPStandard/january2017/problem2/CheckingAccount.java" />
-    <entry file="file://$PROJECT_DIR$/FPPStandard/january2017/problem2/AccountManager.java" />
-    <entry file="file://$PROJECT_DIR$/FPPStandard/march2018/problem1/Main.java" />
-    <entry file="file://$PROJECT_DIR$/FPPStandard/march2018/problem1/MinDoublyLinkedList.java" />
-    <entry file="file://$PROJECT_DIR$/homework11/problem3/util/Util.java" />
     <entry file="file://$PROJECT_DIR$/homework11/problem3/TestData.java" />
     <entry file="file://$PROJECT_DIR$/homework11/problem3/EmployeeInfo.java" />
     <entry file="file://$PROJECT_DIR$/homework11/problem3/Employee.java" />
@@ -1421,7 +1207,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1429,7 +1214,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="36" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="36" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1437,7 +1221,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1445,7 +1228,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
           <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1477,7 +1259,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="19" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1487,10 +1268,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding>
-            <element signature="e#159#160#0" expanded="false" />
-            <element signature="e#197#198#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1498,7 +1275,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1506,7 +1282,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1514,7 +1289,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="25" column="43" selection-start-line="25" selection-start-column="43" selection-end-line="25" selection-end-column="43" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1522,7 +1296,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1530,10 +1303,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
-          <folding>
-            <element signature="e#241#242#0" expanded="true" />
-            <element signature="e#283#284#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1541,6 +1310,185 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
           <caret line="34" column="107" selection-start-line="34" selection-start-column="107" selection-end-line="34" selection-end-column="107" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MPP/Lab3/lesson3/labs/prob3/betterway/Cylinder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+          <folding>
+            <element signature="e#196#197#0" expanded="false" />
+            <element signature="e#253#254#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MPP/Lab3/lesson3/labs/prob3/badway/Cylinder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <element signature="e#189#190#0" expanded="false" />
+            <element signature="e#218#219#0" expanded="false" />
+            <element signature="e#255#256#0" expanded="false" />
+            <element signature="e#312#313#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MPP/Lab3/lesson3/labs/prob3/badway/Circle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MPP/Lab3/lesson3/labs/prob3/betterway/Circle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MPP/Lab3/lesson3/labs/prob4/Admin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MPP/Lab3/lesson3/labs/prob4/Property.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MPP/Lab3/lesson3/labs/prob4/Condo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MPP/Lab3/lesson3/labs/prob4/House.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MPP/Lab3/lesson3/labs/prob4/Trailer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MPP/Lab3/lesson3/labs/prob4/Driver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/time/LocalDate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="136" column="19" selection-start-line="136" selection-start-column="19" selection-end-line="136" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MPP/Lab4/problem4/Order.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="e#583#584#0" expanded="true" />
+            <element signature="e#631#632#0" expanded="true" />
+            <element signature="e#662#663#0" expanded="true" />
+            <element signature="e#692#693#0" expanded="true" />
+            <element signature="e#735#736#0" expanded="true" />
+            <element signature="e#773#774#0" expanded="true" />
+            <element signature="e#811#812#0" expanded="true" />
+            <element signature="e#845#846#0" expanded="true" />
+            <element signature="e#899#900#0" expanded="true" />
+            <element signature="e#945#946#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MPP/Lab4/problem4/Hourly.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MPP/Lab4/problem4/Commissioned.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="29" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#835#836#0" expanded="true" />
+            <element signature="e#868#869#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MPP/Lab4/problem4/Salaried.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#357#358#0" expanded="true" />
+            <element signature="e#386#387#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MPP/Lab4/problem4/Paycheck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="58" selection-start-line="27" selection-start-column="58" selection-end-line="27" selection-end-column="58" />
+          <folding>
+            <element signature="e#542#543#0" expanded="true" />
+            <element signature="e#609#610#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MPP/Lab4/problem4/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="23" selection-start-line="35" selection-start-column="23" selection-end-line="35" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#333#334#0" expanded="true" />
+            <element signature="e#367#368#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MPP/Lab4/problem4/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="566">
+          <caret line="40" column="33" selection-start-line="40" selection-start-column="33" selection-end-line="40" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
