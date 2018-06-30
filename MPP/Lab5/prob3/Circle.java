@@ -1,8 +1,6 @@
 package prob3;
 
-/**
- * Created by fissehaye on 6/30/18.
- */
+
 public final class Circle implements Shape {
 
     private final double radius;

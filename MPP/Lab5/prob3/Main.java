@@ -3,9 +3,6 @@ package prob3;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by fissehaye on 6/30/18.
- */
 public class Main {
 
     public static void main(String[] args) {

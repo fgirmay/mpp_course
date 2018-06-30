@@ -2,9 +2,6 @@ package prob4;
 
 import java.time.LocalDate;
 
-/**
- * Created by fissehaye on 6/29/18.
- */
 final public class CustOrderFactory {
 
     private CustOrderFactory(){}

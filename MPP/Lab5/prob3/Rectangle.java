@@ -1,8 +1,5 @@
 package prob3;
 
-/**
- * Created by fissehaye on 6/30/18.
- */
 public final class Rectangle implements Shape {
 
     private final double height;

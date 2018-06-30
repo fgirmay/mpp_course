@@ -1,8 +1,5 @@
 package prob4;
 
-/**
- * Created by fissehaye on 6/29/18.
- */
 public class Item {
     String name;
     Item(String name) {

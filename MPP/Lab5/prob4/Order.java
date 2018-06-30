@@ -4,9 +4,6 @@ import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by fissehaye on 6/29/18.
- */
 public class Order {
     private LocalDate orderDate;
     private List<Item> items;
