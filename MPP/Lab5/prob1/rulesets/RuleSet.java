@@ -1,11 +1,7 @@
 package prob1.rulesets;
 
-import java.awt.*;
+import java.awt.Component;
 
-/**
- * Created by fissehaye on 6/29/18.
- */
 public interface RuleSet {
-
-    public void applyRules(Component ob) throws RuleException;
+	public void applyRules(Component ob) throws RuleException;
 }
