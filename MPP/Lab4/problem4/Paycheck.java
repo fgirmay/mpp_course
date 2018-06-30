@@ -1,18 +1,16 @@
 package problem4;
 
-import java.util.Stack;
-
 /**
  * Created by fissehaye on 6/28/18.
  */
 public final class Paycheck {
 
-    private double grossPay;
-    private double fica;
-    private double state;
-    private double local;
-    private double medicare;
-    private double socialSecurity;
+    private final double grossPay;
+    private final double fica;
+    private final double state;
+    private final double local;
+    private final double medicare;
+    private final double socialSecurity;
 
 
     public Paycheck(double grossPay) {
@@ -29,7 +27,32 @@ public final class Paycheck {
     }
 
     public double getNetPay(){
-        double deductible = grossPay * (fica + state + local + medicare + socialSecurity);
-        return grossPay - deductible;
+        double deductible = getGrossPay() * (getFica() + getState() + getLocal() + getMedicare() + getSocialSecurity());
+        return getGrossPay() - deductible;
+    }
+
+
+    public double getGrossPay() {
+        return grossPay;
+    }
+
+    public double getFica() {
+        return fica;
+    }
+
+    public double getState() {
+        return state;
+    }
+
+    public double getLocal() {
+        return local;
+    }
+
+    public double getMedicare() {
+        return medicare;
+    }
+
+    public double getSocialSecurity() {
+        return socialSecurity;
     }
 }

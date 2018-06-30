@@ -22,13 +22,13 @@ public abstract class Employee {
     }
 
     public void print() {
-        calcCompensation(Month.APRIL, Year.now());
+        calcCompensation(1, 1);
         paycheck.print();
 
         //Commissioned commissioned = new Commissioned();
     }
 
-    public Paycheck calcCompensation(Month month, Year year) {
+    public Paycheck calcCompensation(int month, int year) {
 
         double gross = calcGrossPay(month, year);
         paycheck = new Paycheck(gross);
@@ -36,6 +36,6 @@ public abstract class Employee {
         return paycheck;
     }
 
-    public abstract double calcGrossPay(Month month, Year year);
+    public abstract double calcGrossPay(int month, int year);
 
 }

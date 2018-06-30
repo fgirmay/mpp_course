@@ -3,6 +3,7 @@ package problem4;
 import java.time.Month;
 import java.time.Year;
 import java.util.ArrayList;
+import java.util.Date;
 import java.util.List;
 
 /**
@@ -18,23 +19,55 @@ public class Commissioned extends Employee {
 
     public Commissioned(int empId, double baseSalary, double percent, List<Order> orders) {
         super(empId);
-        this.baseSalary = baseSalary;
-        this.percent = percent;
-        this.orders = orders;
+        this.setBaseSalary(baseSalary);
+        this.setPercent(percent);
+        this.setOrders(orders);
     }
 
     @Override
-    public double calcGrossPay(Month month, Year year) {
+    public double calcGrossPay(int month, int year) {
 
-        for (Order order : orders) {
-            commission += order.getOrderAmount() * percent;
+        for (Order order : getOrders()) {
+            setCommission(getCommission() + order.getOrderAmount() * getPercent());
         }
 
-        return commission + baseSalary;
+        return getCommission() + getBaseSalary();
+    }
+
+    public void addOrder(int number, Date date, double amount) {
+        orders.add(new Order(number, date, amount));
     }
 
 
     public double getCommission() {
         return commission;
+    }
+
+    public void setCommission(double commission) {
+        this.commission = commission;
+    }
+
+    public double getBaseSalary() {
+        return baseSalary;
+    }
+
+    public void setBaseSalary(double baseSalary) {
+        this.baseSalary = baseSalary;
+    }
+
+    public List<Order> getOrders() {
+        return orders;
+    }
+
+    public void setOrders(List<Order> orders) {
+        this.orders = orders;
+    }
+
+    public double getPercent() {
+        return percent;
+    }
+
+    public void setPercent(double percent) {
+        this.percent = percent;
     }
 }

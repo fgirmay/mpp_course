@@ -1,6 +1,7 @@
 package problem4;
 
 import java.time.LocalDate;
+import java.util.Date;
 
 /**
  * Created by fissehaye on 6/28/18.
@@ -10,16 +11,13 @@ public class Order {
     private int orderNo;
     private double orderAmount;
     private Commissioned commissioned;
+    private Date localDate;
 
-    private LocalDate localDate;
-
-    public Order(int orderNo, LocalDate localDate, double orderAmount) {
+    public Order(int orderNo, Date localDate, double orderAmount) {
 
         this.setOrderNo(orderNo);
         this.localDate = localDate;
         this.setOrderAmount(orderAmount);
-        //this.commissioned = commissioned;
-        //this.commissioned.addOders(this);
     }
 
     public void addCommission(Commissioned commissioned) {

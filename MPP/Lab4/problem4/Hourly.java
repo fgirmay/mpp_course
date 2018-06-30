@@ -1,8 +1,5 @@
 package problem4;
 
-import java.time.Month;
-import java.time.Year;
-
 /**
  * Created by fissehaye on 6/28/18.
  */
@@ -19,7 +16,7 @@ public class Hourly extends Employee {
     }
 
     @Override
-    public double calcGrossPay(Month month, Year year) {
+    public double calcGrossPay(int month, int year) {
 
         // To be implemented
         return 4 * hoursPerWeek * hourlyPay;
