@@ -62,11 +62,6 @@ public class Example {
         e.evaluator();
 
     }
-    @FunctionalInterface
-    public interface NoArgNoReturn {
-        void act();
-    }
-
 
     static class Apple {
         Apple(double weight) {
