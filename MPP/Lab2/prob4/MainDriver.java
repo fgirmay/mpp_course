@@ -7,7 +7,7 @@ import java.util.*;
  * allows you to navigate in the way that the class
  * diagram suggests
  */
-public class Main {
+public class MainDriver {
 
     Student bob = new Student();
     Student tim = new Student();
@@ -18,12 +18,12 @@ public class Main {
     Section math = new Section();
 
     public static void main(String[] args) {
-        Main m = new Main();
+       /* Driver m = new Driver();
         m.readDataFromDb();
         System.out.println(m.getTranscript(m.bob));
         System.out.println("Grades for math section:\n " + m.getGrades(m.math));
         System.out.println("Courses that Tim took: " + m.getCourseNames(m.tim));
-        System.out.println("Students who got A's: " + m.getStudentsWith("A"));
+        System.out.println("Students who got A's: " + m.getStudentsWith("A"));*/
     }
 
     private Transcript getTranscript(Student s) {
