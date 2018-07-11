@@ -4,11 +4,6 @@ import java.util.Comparator;
 import java.util.function.*;
 public class Example {
 
-
-    //type: Class::instanceMethod
-    Function<String, String> upper1 = (String x) -> x.toUpperCase();
-    Function<String, String> upper2 = String::toUpperCase;
-
     //type:  Class::instanceMethod
     Function<Employee, String> eToString1 = e -> e.getName();
     Function<Employee, String> eToString2 = Employee::getName;
@@ -28,10 +23,6 @@ public class Example {
     //type: Class::instanceMethod
     Function<Apple, Double> appleWeight1 = (Apple a) -> a.getWeight();
     Function<Apple, Double> appleWeight2 = Apple::getWeight;
-
-    //type: Class::staticMethod
-    NoArgNoReturn threadDump1 = () -> Thread.dumpStack();
-    NoArgNoReturn threadDump2 = Thread::dumpStack;
 
     //type: Class::staticMethod
     Function<String, Integer> parser1 = x -> Integer.parseInt(x);
