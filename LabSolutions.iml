@@ -25,6 +25,7 @@
       <sourceFolder url="file://$MODULE_DIR$/MPP/LibraryWorkshop" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/MPP/Lab7" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/MPP/Lab8" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/MPP/Lab9" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

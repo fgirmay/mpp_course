@@ -50,8 +50,6 @@ public class Example {
         System.out.println(pow2.apply(5,8));
         System.out.println(appleWeight2.apply(testApple));
 
-        //threadDump2.act();
-
         System.out.println(parser2.apply("15"));
 
         System.out.println(empComp2.compare(testEmp, new Employee("John", 100000)));

@@ -20,7 +20,7 @@ public class Good {
         list.add("Friday");
         list.add("Saturday");
 
-        int result = good.countWords(list, 'd', 'y', 6);
+        int result = good.countWords(list, 'y', 'n', 6);
         System.out.println(result);
 
 
