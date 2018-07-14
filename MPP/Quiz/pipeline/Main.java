@@ -63,7 +63,8 @@ public class Main {
 
         System.out.println(list.stream()
                 .filter(t -> t.getYear() == 2011)
-                .sorted(Comparator.comparing(transaction -> transaction.getValue())));
+                .sorted(Comparator.comparing(transaction -> transaction.getValue()))
+                .collect(Collectors.toList()));
     }
 
     // Problem 3
@@ -76,7 +77,8 @@ public class Main {
         System.out.println(list.stream()
                                 .map(transaction -> transaction.getTrader())
                                 .filter(trader -> trader.getCity() == "Cambridge")
-                                .sorted(Comparator.comparing(Trader::getName)));
+                                .sorted(Comparator.comparing(Trader::getName))
+                                .collect(Collectors.toList()));
 
     }
 }
