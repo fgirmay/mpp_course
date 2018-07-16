@@ -6,7 +6,7 @@ import java.util.List;
 import java.util.function.Function;
 
 
-public class Employee {
+public class EmployeeProb5 {
     String name;
 
     public String getName() {
@@ -27,7 +27,7 @@ public class Employee {
 
     int salary;
 
-    public Employee(String n, int s) {
+    public EmployeeProb5(String n, int s) {
         this.name = n;
         this.salary = s;
     }
@@ -38,21 +38,21 @@ public class Employee {
     }
 
     public static void main(String[] args) {
-        List<Employee> list = new ArrayList<Employee>() {
+        List<EmployeeProb5> list = new ArrayList<EmployeeProb5>() {
             {
-                add(new Employee("Joe", 50000));
-                add(new Employee("Jim", 75000));
-                add(new Employee("Tom", 80000));
-                add(new Employee("Jim", 70000));
-                add(new Employee("Steve", 55000));
-                add(new Employee("Jim", 100000));
-                add(new Employee("Joe", 59000));
-                add(new Employee("Rich", 88000));
+                add(new EmployeeProb5("Joe", 50000));
+                add(new EmployeeProb5("Jim", 75000));
+                add(new EmployeeProb5("Tom", 80000));
+                add(new EmployeeProb5("Jim", 70000));
+                add(new EmployeeProb5("Steve", 55000));
+                add(new EmployeeProb5("Jim", 100000));
+                add(new EmployeeProb5("Joe", 59000));
+                add(new EmployeeProb5("Rich", 88000));
             }
         };
 
-        Function<Employee, String> byName = e -> e.getName();
-        Function<Employee, Integer> byBalance = e -> e.getSalary();
+        Function<EmployeeProb5, String> byName = e -> e.getName();
+        Function<EmployeeProb5, Integer> byBalance = e -> e.getSalary();
 
         //sorting code here
         list.sort(Comparator.comparing(byName).thenComparing(Comparator.comparing(byBalance).reversed()));
