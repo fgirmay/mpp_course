@@ -3,84 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="91b8e345-14dc-4362-9aca-0fb1f3df5f94" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/LabSolutions.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LabSolutions.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LabSolutions/innerclass/Main$1BirthYear.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LabSolutions/innerclass/Main$1NameLength.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LabSolutions/innerclass/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LabSolutions/innerclass/TriFunction.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LabSolutions/lambdalib/LambdaLibrary.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LabSolutions/lambdalib/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LabSolutions/lambdalib/TriFunction.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LabSolutions/pipeline/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LabSolutions/prob1/business/Address.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LabSolutions/prob1/business/Author.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LabSolutions/prob1/business/Book.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LabSolutions/prob1/business/BookCopy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LabSolutions/prob1/business/ControllerInterface.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LabSolutions/prob1/business/LibraryMember.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LabSolutions/prob1/business/LibrarySystemException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LabSolutions/prob1/business/LoginException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LabSolutions/prob1/business/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LabSolutions/prob1/business/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LabSolutions/prob1/business/SystemController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LabSolutions/prob1/dataaccess/DataAccessFacade.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LabSolutions/prob11/sectionA/Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LabSolutions/prob11/sectionA/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LabSolutions/prob11/sectionA/TriFunction.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LabSolutions/prob11/sectionB/Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LabSolutions/prob11/sectionB/LambdaLibrary.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LabSolutions/prob11/sectionB/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LabSolutions/prob11/sectionB/TriFunction.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LabSolutions/prob12/Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LabSolutions/prob12/LambdaLibrary.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LabSolutions/prob12/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LabSolutions/prob13/Book.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LabSolutions/prob13/BookCopy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LabSolutions/prob13/MainProb13.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LabSolutions/prob14/MySingletonLazzy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LabSolutions/prob2/CannotFly.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LabSolutions/prob2/Circle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LabSolutions/prob2/ClosedCurve.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LabSolutions/prob2/DataMiner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LabSolutions/prob2/DecoyDuck.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LabSolutions/prob2/Duck.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LabSolutions/prob2/Ellipse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LabSolutions/prob2/EquilateralTriangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LabSolutions/prob2/FlyBehavior.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LabSolutions/prob2/FlyWithWings.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LabSolutions/prob2/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LabSolutions/prob2/MainLab9.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LabSolutions/prob2/MallardDuck.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LabSolutions/prob2/MuteQuack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LabSolutions/prob2/Order.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LabSolutions/prob2/OrderItem.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LabSolutions/prob2/Polygon.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LabSolutions/prob2/Quack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LabSolutions/prob2/QuackBehavior.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LabSolutions/prob2/Rectangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LabSolutions/prob2/RedHeadDuck.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LabSolutions/prob2/RubberDuck.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LabSolutions/prob2/Squeak.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LabSolutions/prob2/StringUtilityForm$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LabSolutions/prob2/StringUtilityForm$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LabSolutions/prob2/StringUtilityForm$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LabSolutions/prob2/StringUtilityForm.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LabSolutions/prob3/Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LabSolutions/prob4/Good.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LabSolutions/prob4/MainProb4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LabSolutions/prob5/CaseA.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LabSolutions/prob5/CaseB.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LabSolutions/prob5/Employee$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LabSolutions/prob5/Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LabSolutions/prob5/MainProb5$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LabSolutions/prob5/MainProb5$Pair.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LabSolutions/prob5/MainProb5$SortMethod.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LabSolutions/prob5/MainProb5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LabSolutions/prob6/Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LabSolutions/prob6/EmployeeNameComparator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LabSolutions/prob6/Example$Apple.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LabSolutions/prob6/Example.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LabSolutions/prob6/MainProb6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LabSolutions/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LabSolutions/workspace.xml" afterDir="false" />
     </list>
     <ignored path="Homework_Solution.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -93,6 +15,11 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/LabSolutions$TestClass.ic" NAME="TestClass Coverage Results" MODIFIED="1531714273734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>prob5.soln1.*</FILTER>
+    </SUITE>
+  </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
@@ -101,88 +28,101 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MPP/StandardExam/april2017/prob2/Main.java">
+      <file leaf-file-name="OldFileIO.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MPP/Lab10/prob2/OldFileIO.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="36" column="24" selection-start-line="36" selection-start-column="20" selection-end-line="36" selection-end-column="24" />
+            <state relative-caret-position="60">
+              <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Department.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MPP/StandardExam/april2017/prob2/Department.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Admin.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MPP/StandardExam/april2017/prob2/Admin.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Guest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MPP/Lab10/prob4/Guest.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="GuestListJava8.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MPP/Lab10/prob4/GuestListJava8.java">
+      <file leaf-file-name="NewFileIO.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MPP/Lab10/prob2/NewFileIO.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
               <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GuestListPreJava8.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/MPP/Lab10/prob4/GuestListPreJava8.java">
+      <file leaf-file-name="FixThis.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MPP/Lab10/prob3/FixThis.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="FixThisSoln.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MPP/Lab10/prob3/FixThisSoln.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="37" column="38" selection-start-line="37" selection-start-column="38" selection-end-line="37" selection-end-column="38" />
+            <state relative-caret-position="60">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Queue.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MPP/Lab10/prob6/Queue.java">
+      <file leaf-file-name="FunctionWithException.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MPP/Lab10/prob3/FunctionWithException.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+            <state relative-caret-position="270">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BillingDept.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MPP/StandardExam/april2017/prob2/BillingDept.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MarketingDept.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MPP/StandardExam/april2017/prob2/MarketingDept.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SalesDept.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MPP/StandardExam/april2017/prob2/SalesDept.java">
+      <file leaf-file-name="Group.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MPP/Lab11/prob2/Group.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
               <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GroupUtil.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MPP/Lab11/prob2/GroupUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+              <folding>
+                <element signature="e#130#131#0" expanded="true" />
+                <element signature="e#157#158#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Employee.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MPP/Lab10/prob5/Employee.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MPP/Lab10/prob5/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="825">
+              <caret line="57" column="8" selection-start-line="57" selection-start-column="8" selection-end-line="57" selection-end-column="56" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestClass.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MPP/Lab10/prob5/soln1/TestClass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" column="29" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -229,21 +169,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/MPP/Lab9/prob1/business/ControllerInterface.java" />
-        <option value="$PROJECT_DIR$/MPP/Lab9/prob1/business/LibraryMember.java" />
-        <option value="$PROJECT_DIR$/MPP/Lab9/prob1/business/SystemController.java" />
-        <option value="$PROJECT_DIR$/MPP/Lab9/prob1/dataaccess/DataAccess.java" />
-        <option value="$PROJECT_DIR$/MPP/Lab9/prob1/dataaccess/TestData.java" />
-        <option value="$PROJECT_DIR$/MPP/Lab9/prob1/ui/AllMembersWindow.java" />
-        <option value="$PROJECT_DIR$/MPP/Lab9/prob1/ui/LoginWindow.java" />
-        <option value="$PROJECT_DIR$/MPP/Lab9/prob1/dataaccess/DataAccessFacade.java" />
-        <option value="$PROJECT_DIR$/MPP/Lab9/prob1/business/Main.java" />
-        <option value="$PROJECT_DIR$/MPP/Lab9/problem2/Main.java" />
-        <option value="$PROJECT_DIR$/MPP/Lab9/prob2/Main.java" />
-        <option value="$PROJECT_DIR$/MPP/Lab9/prob2/Lab9Main.java" />
-        <option value="$PROJECT_DIR$/MPP/Lab9/prob3/Employee.java" />
-        <option value="$PROJECT_DIR$/MPP/Lab9/prob4/MainProb4.java" />
-        <option value="$PROJECT_DIR$/MPP/Lab9/prob5/MainProb5.java" />
         <option value="$PROJECT_DIR$/MPP/Lab9/prob5/Employee.java" />
         <option value="$PROJECT_DIR$/MPP/Lab9/prob6/MainProb6.java" />
         <option value="$PROJECT_DIR$/MPP/Lab9/prob12/MySingletonLazzy.java" />
@@ -278,8 +203,23 @@
         <option value="$PROJECT_DIR$/MPP/StandardExam/april2017/prob2/Department.java" />
         <option value="$PROJECT_DIR$/MPP/StandardExam/april2017/prob2/Admin.java" />
         <option value="$PROJECT_DIR$/MPP/Lab10/prob4/Guest.java" />
-        <option value="$PROJECT_DIR$/MPP/Lab10/prob6/Queue.java" />
+        <option value="$PROJECT_DIR$/MPP/Lab9/prob5/EmployeeLab9.java" />
+        <option value="$PROJECT_DIR$/MPP/Lab9/prob5/EmployeeProb5.java" />
         <option value="$PROJECT_DIR$/MPP/Lab10/prob4/GuestListPreJava8.java" />
+        <option value="$PROJECT_DIR$/MPP/Lab10/prob5/Main.java" />
+        <option value="$PROJECT_DIR$/MPP/Lab10/prob5/soln1/TestClass.java" />
+        <option value="$PROJECT_DIR$/MPP/Lab10/prob5/soln2/LibraryCompanion.java" />
+        <option value="$PROJECT_DIR$/MPP/Lab10/prob5/soln2/TestClass.java" />
+        <option value="$PROJECT_DIR$/MPP/Lab10/prob6/QueueThreadSafe.java" />
+        <option value="$PROJECT_DIR$/MPP/Lab10/prob6/Queue.java" />
+        <option value="$PROJECT_DIR$/MPP/Lab10/prob6/MultithreadedQueueTest.java" />
+        <option value="$PROJECT_DIR$/MPP/Lab10/prob1/BugReportGenerator.java" />
+        <option value="$PROJECT_DIR$/MPP/Lab10/prob1/bugreporter/Main.java" />
+        <option value="$PROJECT_DIR$/MPP/Lab10/prob1/bugreporter/BugReportGenerator.java" />
+        <option value="$PROJECT_DIR$/MPP/Lab10/prob2/OldFileIO.java" />
+        <option value="$PROJECT_DIR$/MPP/Lab10/prob3/FixThis.java" />
+        <option value="$PROJECT_DIR$/MPP/Lab11/prob2/Group.java" />
+        <option value="$PROJECT_DIR$/MPP/Lab11/prob2/GroupUtil.java" />
       </list>
     </option>
   </component>
@@ -307,7 +247,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="822" />
@@ -320,8 +260,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -338,28 +278,14 @@
               <item name="LabSolutions" type="b2602c69:ProjectViewProjectNode" />
               <item name="LabSolutions" type="462c0819:PsiDirectoryNode" />
               <item name="MPP" type="462c0819:PsiDirectoryNode" />
-              <item name="Lab10" type="462c0819:PsiDirectoryNode" />
+              <item name="Lab11" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LabSolutions" type="b2602c69:ProjectViewProjectNode" />
               <item name="LabSolutions" type="462c0819:PsiDirectoryNode" />
               <item name="MPP" type="462c0819:PsiDirectoryNode" />
-              <item name="Lab10" type="462c0819:PsiDirectoryNode" />
-              <item name="prob4" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LabSolutions" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LabSolutions" type="462c0819:PsiDirectoryNode" />
-              <item name="MPP" type="462c0819:PsiDirectoryNode" />
-              <item name="Lab10" type="462c0819:PsiDirectoryNode" />
-              <item name="prob5" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LabSolutions" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LabSolutions" type="462c0819:PsiDirectoryNode" />
-              <item name="MPP" type="462c0819:PsiDirectoryNode" />
-              <item name="Lab10" type="462c0819:PsiDirectoryNode" />
-              <item name="prob6" type="462c0819:PsiDirectoryNode" />
+              <item name="Lab11" type="462c0819:PsiDirectoryNode" />
+              <item name="prob2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LabSolutions" type="b2602c69:ProjectViewProjectNode" />
@@ -410,11 +336,11 @@
       <recent name="employeeinfo" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/MPP/Lab11/prob2" />
+      <recent name="$PROJECT_DIR$/MPP/Lab10/prob3" />
+      <recent name="$PROJECT_DIR$/MPP/Lab10/prob2" />
+      <recent name="$PROJECT_DIR$/MPP/Lab10/prob1" />
       <recent name="$PROJECT_DIR$/MPP/Lab10" />
-      <recent name="$PROJECT_DIR$/MPP/StandardExam/april2017" />
-      <recent name="$PROJECT_DIR$/MPP/Quiz" />
-      <recent name="$PROJECT_DIR$/MPP/Lab9/prob8" />
-      <recent name="$PROJECT_DIR$/MPP/Lab9/prob7" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -429,61 +355,39 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.GuestListPreJava8">
+  <component name="RunManager" selected="Application.GroupUtil">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
-    <configuration name="GuestListPreJava8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="prob4.GuestListPreJava8" />
+    <configuration name="GroupUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="prob2.GroupUtil" />
       <module name="LabSolutions" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="prob4.*" />
+          <option name="PATTERN" value="prob2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="prob12.Main" />
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="prob5.Main" />
       <module name="LabSolutions" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="prob12.*" />
+          <option name="PATTERN" value="prob5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="innerclass.Main" />
+    <configuration name="MultithreadedQueueTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="prob6.MultithreadedQueueTest" />
       <module name="LabSolutions" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="innerclass.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="april2017.prob2.Main" />
-      <module name="LabSolutions" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="april2017.prob2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="prob7.Main" />
-      <module name="LabSolutions" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="prob7.*" />
+          <option name="PATTERN" value="prob6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -547,6 +451,52 @@
       <setting name="launchBrowserUrl" value="" />
       <setting name="depsClasspath" value="false" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+    </configuration>
+    <configuration name="TestClass (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LabSolutions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="prob5.soln2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="prob5.soln2" />
+      <option name="MAIN_CLASS_NAME" value="prob5.soln2.TestClass" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="TestClass" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LabSolutions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="prob5.soln1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="prob5.soln1" />
+      <option name="MAIN_CLASS_NAME" value="prob5.soln1.TestClass" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -772,19 +722,19 @@
       <envs />
     </configuration>
     <list>
-      <item itemvalue="Application.Main (3)" />
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.Main (4)" />
-      <item itemvalue="Application.Main (5)" />
-      <item itemvalue="Application.GuestListPreJava8" />
+      <item itemvalue="Application.Main (1)" />
+      <item itemvalue="JUnit.TestClass" />
+      <item itemvalue="JUnit.TestClass (1)" />
+      <item itemvalue="Application.MultithreadedQueueTest" />
+      <item itemvalue="Application.GroupUtil" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.GuestListPreJava8" />
-        <item itemvalue="Application.Main (5)" />
-        <item itemvalue="Application.Main (4)" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.GroupUtil" />
+        <item itemvalue="Application.MultithreadedQueueTest" />
+        <item itemvalue="JUnit.TestClass (1)" />
+        <item itemvalue="JUnit.TestClass" />
+        <item itemvalue="Application.Main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -892,67 +842,78 @@
       <workItem from="1531580689653" duration="8282000" />
       <workItem from="1531620910207" duration="3930000" />
       <workItem from="1531690047675" duration="246000" />
-      <workItem from="1531703086068" duration="1350000" />
+      <workItem from="1531703086068" duration="12260000" />
+      <workItem from="1531767290587" duration="1078000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="BinarySearchTest - 2018.06.03 at 13h 42m 59s.xml">
-      <configuration name="BinarySearchTest" configurationId="JUnit" />
+    <history-entry file="TestClass_(1) - 2018.07.16 at 00h 07m 23s.xml">
+      <configuration name="TestClass (1)" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BinarySearchTest - 2018.06.03 at 21h 21m 06s.xml">
-      <configuration name="BinarySearchTest" configurationId="JUnit" />
+    <history-entry file="TestClass_(1) - 2018.07.16 at 00h 08m 04s.xml">
+      <configuration name="TestClass (1)" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BinarySearchTest - 2018.06.03 at 23h 02m 47s.xml">
-      <configuration name="BinarySearchTest" configurationId="JUnit" />
+    <history-entry file="TestClass_(1) - 2018.07.16 at 00h 09m 31s.xml">
+      <configuration name="TestClass (1)" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PalindromeCheckerTest - 2018.06.03 at 13h 01m 29s.xml">
-      <configuration name="PalindromeCheckerTest" configurationId="JUnit" />
+    <history-entry file="TestClass_(1) - 2018.07.16 at 00h 09m 46s.xml">
+      <configuration name="TestClass (1)" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PalindromeCheckerTest - 2018.06.03 at 13h 32m 54s.xml">
-      <configuration name="PalindromeCheckerTest" configurationId="JUnit" />
+    <history-entry file="TestClass_(1) - 2018.07.16 at 00h 10m 49s.xml">
+      <configuration name="TestClass (1)" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PalindromeCheckerTest - 2018.06.03 at 13h 34m 35s.xml">
-      <configuration name="PalindromeCheckerTest" configurationId="JUnit" />
+    <history-entry file="TestClass_(1) - 2018.07.16 at 00h 12m 06s.xml">
+      <configuration name="TestClass (1)" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PalindromeCheckerTest - 2018.06.03 at 23h 02m 55s.xml">
-      <configuration name="PalindromeCheckerTest" configurationId="JUnit" />
+    <history-entry file="TestClass_(1) - 2018.07.16 at 00h 13m 17s.xml">
+      <configuration name="TestClass (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestClass_(1) - 2018.07.16 at 00h 13m 34s.xml">
+      <configuration name="TestClass (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestClass_(1) - 2018.07.16 at 00h 13m 46s.xml">
+      <configuration name="TestClass (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestClass_(1) - 2018.07.16 at 00h 13m 54s.xml">
+      <configuration name="TestClass (1)" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="331025000" />
+    <option name="totallyTimeSpent" value="343013000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="822" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info id="Palette&#9;" order="5" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5090278" side_tool="true" weight="0.45868945" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5090278" side_tool="true" weight="0.457606" />
       <window_info anchor="right" id="Maven Projects" order="4" weight="0.3297568" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49097222" weight="0.45511222" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49097222" weight="0.36034912" />
       <window_info anchor="bottom" id="Version Control" order="11" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="right" id="Designer" order="5" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49875313" visible="true" weight="0.22246066" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49750623" visible="true" weight="0.23676682" />
       <window_info anchor="right" id="Database" order="6" />
       <window_info id="Structure" order="1" sideWeight="0.50124687" side_tool="true" weight="0.22889842" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="3" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Favorites" order="4" sideWeight="0.50124687" side_tool="true" weight="0.22889842" />
+      <window_info id="Favorites" order="4" sideWeight="0.50249374" side_tool="true" weight="0.22246066" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Coverage" order="5" side_tool="true" weight="0.3297568" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Messages" order="8" weight="0.3241895" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info id="Image Layers" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32668328" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.3241895" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -979,143 +940,10 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/MPP/Lab9/prob12/Employee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MPP/Lab9/prob11/sectionB/LambdaLibrary.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="12" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MPP/Lab9/prob1/business/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="20" column="55" selection-start-line="20" selection-start-column="55" selection-end-line="20" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MPP/Lab9/prob3/Employee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="56" selection-start-line="56" selection-end-line="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MPP/Lab9/prob8/OrderItem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MPP/Lab9/prob8/Product.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MPP/Lab9/prob8/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="21" column="98" selection-start-line="21" selection-start-column="98" selection-end-line="21" selection-end-column="98" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MPP/Lab9/prob10/MainProb10.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MPP/Lab9/prob14/MySingletonLazzy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="56" selection-start-line="9" selection-start-column="56" selection-end-line="9" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MPP/Lab9/prob13/MainProb13.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MPP/Lab9/prob13/BookCopy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MPP/Lab9/prob11/sectionB/TriFunction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MPP/Lab9/prob11/sectionB/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="56" selection-start-line="18" selection-start-column="56" selection-end-line="18" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MPP/Lab9/prob12/LambdaLibrary.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="104" selection-start-line="17" selection-start-column="104" selection-end-line="17" selection-end-column="104" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MPP/Lab9/prob12/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MPP/Lab9/prob5/MainProb5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
-          <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MPP/Quiz/innerclass/TriFunction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MPP/Lab9/prob7/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="647">
-          <caret line="46" column="138" selection-start-line="46" selection-start-column="138" selection-end-line="46" selection-end-column="138" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/MPP/Lab9/prob4/MainProb4.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="15" column="56" selection-start-line="15" selection-start-column="56" selection-end-line="15" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MPP/Lab9/prob5/Employee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="53" column="8" selection-start-line="53" selection-start-column="8" selection-end-line="58" selection-end-column="42" />
         </state>
       </provider>
     </entry>
@@ -1242,12 +1070,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="870">
           <caret line="70" column="68" selection-start-line="70" selection-start-column="68" selection-end-line="70" selection-end-column="68" />
-          <folding>
-            <element signature="e#2065#2066#0" expanded="true" />
-            <element signature="e#2183#2184#0" expanded="true" />
-            <element signature="e#3224#3225#0" expanded="true" />
-            <element signature="e#3314#3315#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1317,6 +1139,13 @@
     <entry file="file://$PROJECT_DIR$/MPP/Lab10/prob4/Guest.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/MPP/Lab9/prob5/EmployeeProb5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="31" column="24" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/MPP/Lab10/prob4/GuestListJava8.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -1324,17 +1153,149 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MPP/Lab10/prob6/Queue.java">
+    <entry file="file://$PROJECT_DIR$/MPP/Lab10/prob4/GuestListPreJava8.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+        <state relative-caret-position="174">
+          <caret line="46" column="24" selection-start-line="46" selection-start-column="24" selection-end-line="46" selection-end-column="46" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MPP/Lab10/prob4/GuestListPreJava8.java">
+    <entry file="file://$PROJECT_DIR$/MPP/Lab10/prob5/soln2/LibraryCompanion.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="37" column="38" selection-start-line="37" selection-start-column="38" selection-end-line="37" selection-end-column="38" />
+        <state relative-caret-position="285">
+          <caret line="19" column="24" lean-forward="true" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MPP/Lab10/prob5/soln2/TestClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MPP/Lab10/prob6/QueueThreadSafe.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="28" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MPP/Lab10/prob6/Queue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MPP/Lab10/prob1/BugReportGenerator.java" />
+    <entry file="file://$PROJECT_DIR$/MPP/Lab10/prob6/MultithreadedQueueTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="43" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MPP/Lab10/prob1/bugreporter/BugReport.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MPP/Lab10/prob1/bugreporter/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MPP/Lab10/prob1/bugreporter/BugReportGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MPP/Lab10/prob2/OldFileIO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MPP/Lab10/prob2/NewFileIO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MPP/Lab10/prob3/FixThis.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MPP/Lab10/prob3/FixThisSoln.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MPP/Lab10/prob3/FunctionWithException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MPP/Lab10/prob5/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MPP/Lab10/prob5/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="825">
+          <caret line="57" column="8" selection-start-line="57" selection-start-column="8" selection-end-line="57" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MPP/Lab10/prob5/soln1/TestClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="29" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MPP/Lab11/prob2/Group.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MPP/Lab11/prob2/GroupUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+          <folding>
+            <element signature="e#130#131#0" expanded="true" />
+            <element signature="e#157#158#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

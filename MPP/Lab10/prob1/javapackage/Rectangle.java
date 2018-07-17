@@ -1,7 +1,7 @@
 package prob1.javapackage;
 
 
-import LabTen.prob1.bugreporter.BugReport;
+import prob1.bugreporter.BugReport;
 
 @BugReport(assignedTo = "Joe Smith", severity = 2, reportedBy = "Corazza", description = "computePerimeter incorrect")
 public class Rectangle implements ClosedCurve {

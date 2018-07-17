@@ -1,6 +1,6 @@
 package prob1.javapackage;
 
-import LabTen.prob1.bugreporter.BugReport;
+import prob1.bugreporter.BugReport;
 
 import java.util.ArrayList;
 import java.util.List;
