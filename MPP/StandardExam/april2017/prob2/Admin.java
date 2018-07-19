@@ -1,28 +1,25 @@
 package april2017.prob2;
 
 public class Admin {
-    //implement
+
     private Department[] depts;
 
-    public Department[] getDep() {
-        return depts;
+    public Admin(Department[] depts) {
+        this.depts = depts;
     }
 
-    public Admin(Department[] dep) {
-        depts = dep;
-    }
-
+	//implement
     public String hourlyCompanyMessage() {
 
-        String message = "";
-
+        String result = "";
         for (Department department : depts) {
-            message += format(department.getName(), department.nextMessage());
+            result += format(department.getName(), department.nextMessage()) + "\n";
         }
-        return message;
+        return result;
     }
 
-    public String format(String name, String smg) {
-        return String.format("%s : %s \n", name, smg);
+    public String format(String name, String msg) {
+        return name + ":" + msg;
     }
+	
 }

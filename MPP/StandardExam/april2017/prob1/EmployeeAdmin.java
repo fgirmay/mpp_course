@@ -3,7 +3,6 @@ package april2017.prob1;
 import java.util.HashMap;
 import java.util.List;
 import java.util.stream.Collectors;
-import java.util.stream.Stream;
 
 public class EmployeeAdmin {
 
@@ -13,21 +12,22 @@ public class EmployeeAdmin {
     public static List<String> prepareSsnReport(HashMap<String, Employee> table, List<String> socSecNums) {
         //implement
 
-        return table.keySet()
+        return  table.keySet()
                 .stream()
                 .filter(s -> !(socSecNums.contains(s)))
                 .sorted()
                 .collect(Collectors.toList());
+        //return null;
+
     }
 
     //return a list of Employees whose social security number is on the input list socSecNums
     //and whose salary is >80000; the return list does not need to be sorted
     public static List<Employee> prepareEmpReport(HashMap<String, Employee> table, List<String> socSecNums) {
         //implement
-
         return table.values()
                 .stream()
-                .filter(e -> socSecNums.contains(e.getSsn()))
+                .filter(e -> (socSecNums.contains(e.getSsn())))
                 .filter(e -> e.getSalary() > 80000)
                 .collect(Collectors.toList());
     }

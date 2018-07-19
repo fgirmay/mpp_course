@@ -17,6 +17,7 @@ public class Main {
                 add("Number of new job applicants: 2");
             }
         };
+
         List<String> salesMsgs = new ArrayList<String>() {
             {
                 add("Yesterday's revenue: $20,000");
@@ -25,6 +26,7 @@ public class Main {
                 add("Number of new job applicants: 21");
             }
         };
+
         List<String> marketingMsgs = new ArrayList<String>() {
             {
                 add("Number of viewings of yesterday's informercial: 20,000");
@@ -54,7 +56,7 @@ public class Main {
 
         Admin a = new Admin(new Department[]{bill, mark, sal});
         System.out.println(a.hourlyCompanyMessage());
-        System.out.println(a.hourlyCompanyMessage());
+        //System.out.println(a.hourlyCompanyMessage());
     }
 
     private static void loadQueue(HashMap<Object, List<String>> h, Department d) {

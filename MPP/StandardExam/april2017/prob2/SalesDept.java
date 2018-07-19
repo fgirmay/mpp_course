@@ -1,6 +1,6 @@
 package april2017.prob2;
 
-public class SalesDept extends Department{
+public class SalesDept extends Department {
 	//implement
 	
 	
@@ -8,10 +8,8 @@ public class SalesDept extends Department{
 		//not implemented
 	}
 
-
 	@Override
 	public String getName() {
-		// TODO Auto-generated method stub
 		return "Sales";
 	}
 }
